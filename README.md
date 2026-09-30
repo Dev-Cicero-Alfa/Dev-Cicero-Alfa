@@ -44,13 +44,6 @@
 | **Calculadora de Leilões** *(privado)* | App full-stack com login, cálculo de lances, propostas de compra e checklists de lotes | React · Tailwind · NestJS · Prisma · MySQL · Docker |
 | **Sistema-Alfa** *(privado, empresa)* | Plataforma interna da Alfa Leilões — ex.: módulo de petições com modelos de campos preenchíveis e conferência antes de gerar | React · NestJS · Prisma · MySQL · Redis |
 
-### Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-Cicero-Alfa&show_icons=true&count_private=true&hide_border=true&locale=pt-br&theme=transparent" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Cicero-Alfa&layout=compact&hide_border=true&locale=pt-br&theme=transparent" alt="Linguagens mais usadas">
-</p>
-
 ### Vamos conversar?
 
 Precisa de um site novo ou quer modernizar o atual? Veja o [portfólio](https://dev-cicero-alfa.github.io) e fale comigo.
