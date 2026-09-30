@@ -31,6 +31,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
 ### Projetos em destaque
@@ -38,8 +39,8 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**Insca — Landing Page**](https://github.com/Dev-Cicero-Alfa/insca-landing) · [ver online](https://dev-cicero-alfa.github.io/insca-landing/) | Redesign da landing page do Instituto de Saúde Cognitiva Aplicada | React · Vite |
-| [**Alfa Leilões — novo site**](https://github.com/Dev-Cicero-Alfa/modelo-site-alfa-novo) | Protótipo interativo do site reformulado da Alfa Leilões | React · Vite |
-| [**Amapá Office**](https://github.com/Dev-Cicero-Alfa/amapa-office) | Modelo de site para o coworking 24h Amapá Office | HTML · CSS · JS |
+| [**Alfa Leilões — novo site**](https://github.com/Dev-Cicero-Alfa/modelo-site-alfa-novo) · [ver online](https://modelo-site-alfa-novo.vercel.app) | Protótipo interativo do site reformulado da Alfa Leilões | React · Vite |
+| [**Amapá Office**](https://github.com/Dev-Cicero-Alfa/amapa-office) · [ver online](https://dev-cicero-alfa.github.io/amapa-office/) | Modelo de site para um coworking 24h em Marabá (PA) | HTML · CSS · JS |
 | **Kodra** *(privado)* | Site institucional com um componente por seção e formulário de contato por e-mail | Next.js 15 · TypeScript · Tailwind |
 | **Calculadora de Leilões** *(privado)* | App full-stack com login, cálculo de lances, propostas de compra e checklists de lotes | React · Tailwind · NestJS · Prisma · MySQL · Docker |
 | **Sistema-Alfa** *(privado, empresa)* | Plataforma interna da Alfa Leilões — ex.: módulo de petições com modelos de campos preenchíveis e conferência antes de gerar | React · NestJS · Prisma · MySQL · Redis |
